@@ -1,6 +1,6 @@
 [![Review Assignment Due Date]
 
-# SISTEMA AUTOMATICO DE ESTACIONAMIENTO
+# SISTEMA AUTOMÁTICO DE ESTACIONAMIENTO
 # PROYECTO FINAL TECNICAS DIGITALES -  2023
 
 # 1. Introducción:
@@ -30,5 +30,8 @@ Utilizar sensores IR para detectar la presencia de vehículos en los espacios de
 •	Seis sensores IR (para espacios de estacionamiento individuales)
 •	Fuente de alimentación (220V)
 •	Adaptador de corriente (5 V, 2 A)
+
+# SIMULACIÓN EN PROTEUS
+https://youtu.be/vVaBnaWNvVE
 
 
